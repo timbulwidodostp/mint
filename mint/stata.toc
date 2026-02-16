@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p mint Measurement invariance test Use mint With STATA 19
