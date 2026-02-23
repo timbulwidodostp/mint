@@ -1,6 +1,8 @@
 # mint
 Measurement invariance test Use mint With STATA 19
 
+https://www.youtube.com/watch?v=6nm90rS0S2Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
